@@ -1,0 +1,2 @@
+let yourArray; // Change this line
+yourArray = ["subrota", 5, 5.6, true, false];
